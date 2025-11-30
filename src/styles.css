@@ -53,6 +53,10 @@ button {
     font-size: 20px;
 }
 
+#content button:last-of-type {
+    width: 105px;
+}
+
 #content li:hover {
     background-color: rgb(175, 118, 13);
     border: 1px solid white;
